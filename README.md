@@ -1,4 +1,3 @@
-# Wiki_API-test-case
 # Playwright Wikipedia Search + API Validation Test
 
 This project contains a realistic sample Playwright test case that I built. It combines UI validation with API assertions in a single automated flow. Playwright supports direct API testing through `APIRequestContext`, and the same framework can be used to validate browser behavior, page state, and network responses together.
